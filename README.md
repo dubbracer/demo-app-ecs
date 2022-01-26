@@ -1,5 +1,7 @@
 # docker-demo-app-ecs
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/323601ee-ddf0-43fb-8941-4b3a0491ca61.svg?orgId=816910851876)](https://app.soluble.cloud/repos/details/github.com/dubbracer/demo-app-ecs?orgId=816910851876)  
+
 Simple web demo application with vulnerabilities (couple of low, medium and high) OS and python vulnerabilites) that contain the Lacework agent.
 
 This container is meant to be deployed on ECS Fargate but can also be used in other environments.
